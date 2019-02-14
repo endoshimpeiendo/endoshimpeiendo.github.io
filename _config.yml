@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Endo, Shimpei 遠藤　進平
+title: 遠藤　進平 Endo, Shimpei
 email: endoshimpeiendo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal website of Shimpei Endo. 遠藤進平の個人サイト

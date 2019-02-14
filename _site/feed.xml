@@ -1,16 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-04T00:56:07+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">endoshimpeiendo</title><subtitle>A personal website of Shimpei Endo.</subtitle><entry><title type="html">Hello there. Check this out</title><link href="http://localhost:4000/jekyll/update/2019/01/03/first-attempt.html" rel="alternate" type="text/html" title="Hello there. Check this out" /><published>2019-01-03T23:07:14+09:00</published><updated>2019-01-03T23:07:14+09:00</updated><id>http://localhost:4000/jekyll/update/2019/01/03/first-attempt</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/01/03/first-attempt.html">&lt;p&gt;This is my first post for my blog.
-How does it look?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-15T04:56:30+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">遠藤　進平 Endo, Shimpei</title><subtitle>A personal website of Shimpei Endo. 遠藤進平の個人サイト</subtitle><entry><title type="html">「いのちぼうにふろう」(1971年, 小林正樹監督)</title><link href="http://localhost:4000/jekyll/update/2019/01/04/inochibounihurou.html" rel="alternate" type="text/html" title="「いのちぼうにふろう」(1971年, 小林正樹監督)" /><published>2019-01-04T01:00:00+09:00</published><updated>2019-01-04T01:00:00+09:00</updated><id>http://localhost:4000/jekyll/update/2019/01/04/inochibounihurou</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/01/04/inochibounihurou.html">&lt;p&gt;「いのちぼうにふろう」(1971年, 小林正樹監督)
+“Inn of Evil”
+https://eiga.com/movie/34833/&lt;/p&gt;
 
-&lt;p&gt;日本語は大丈夫？&lt;/p&gt;</content><author><name></name></author><summary type="html">This is my first post for my blog. How does it look?</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/01/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-01-03T23:07:14+09:00</published><updated>2019-01-03T23:07:14+09:00</updated><id>http://localhost:4000/jekyll/update/2019/01/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/01/03/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;★★&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;今年、初映画は年始に観た「ニュー・シネマ・パラダイス」だった。
+実は見ていない映画を告白する、というチキン・ゲームでの必勝手をまたひとつ失ってしまった。&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;音楽（武満徹）と撮影（岡崎宏三）はよかった。
+とくに冒頭のテーマ、音量が小さくてかえって集中させられた。
+フィルターがわりのすすき、画面を分割する柱。
+話を聞く与太者たちが立ち位置を替える妙、など。&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;ただし、くどい。
+山本圭演じる、将来を誓い合った娘が売り飛ばされた奉公は、純朴さが突き抜けることなく
+単に間抜け側に出てしまっていてイライラさせるし（とくに最後の大捕物に至っても――こんな間抜け
+に命を張ったのか！と理解に苦しんだ）、また栗原小巻演じる一軒飯屋の娘も語りがぎょうぎょうしくてしらじらしい。
+そう考えると、勝新の酔っぱらい語りは、勝新という地金を見せているだけかもしれないにしても、
+整合性をもたらすのだろう。&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;安楽亭の親父（三代目中村翫右衛門――よかった）といい、「せびるのは一度じゃねえぜ」と諭す奉公先の主人といい、
+ある種の父親ぽい存在がちらちら見え、かつそれらが正常に作動しており批判されないことが実は
+心地よかったのかもしれない。&lt;/p&gt;</content><author><name></name></author><summary type="html">「いのちぼうにふろう」(1971年, 小林正樹監督) “Inn of Evil” https://eiga.com/movie/34833/</summary></entry></feed>
