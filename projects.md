@@ -6,6 +6,7 @@ permalink: /projects/
 
 Projects
 Done, on-going, postponed, abandoned or any other status.
+
 完了、進行中、休止中、放棄、そのほか
 
 # Spatial Modal Realism
@@ -18,12 +19,15 @@ How to make it extreme? Spatialize it!
 その原因は極端さにあるのではなく、むしろ極端さが足りないからだ。
 その中途半端さの極地――空間化をうめる。
 
-# Logic as metaphysics
+# Logic as Metaphysics
 
-Let's do some metaphysics by doing some logic. Let's probe instead of prove metaphysical structure.
+Let's do some metaphysics by doing some logic.
+Let's *probe* instead of *prove* metaphysical structure.
 Our heroes include: Dummett, Sider, and Williamson.
 
-論理学をすることで形而上学をするとは？ 証明proveではなくて探知probeをしましょう。ダメットとサイダーという意外な二人が出会います。立会人はウィリアムソン。
+論理学をすることで形而上学をするとは？
+証明proveではなくて探知probeをしましょう。
+ダメットとサイダーという意外な二人が出会います。立会人はウィリアムソン。
 
 # Threats
 
@@ -42,16 +46,22 @@ Analyze vagueness in a less vague manner.
 
 曖昧さはどこでもでてきます。曖昧さをあまり曖昧でない形で分析したい。いつか詩歌の意味論へと接続させたい。
 
+# Manners Engineered
+
+マナーの概念を工学する。
+謙遜原則、ある種の功利主義的な原則、それから動的性格を見出し、マナーをより自由に！
+
 # Logicians Archived
-
-# Manners engineered
-
-マナーの概念を工学する。謙遜原則、ある種の功利主義的な原則、それから動的性格を見出し、マナーをより自由に！
+論理学とはなにか。論理学者がやっていること。
+では論理学者がやっていることはなにか？
+デジタルふくめた痕跡を集積する。
 
 # Self-help and information technologies for philosophers
 
 自己啓発の哲学、情報化の哲学をやっている場合ではない。
+哲学者は自己啓発すべきだし、哲学の実践はより情報化をすすめるべきだ。
 哲学の生産性向上、それから哲学の情報化にむけた、現状報告と処方箋、それら実践の記録。最初の被験体は自分自身です。
+考古（現）学的アプローチ、あるいは質的調査。
 
 # Meta^{n}physics
 
@@ -61,6 +71,6 @@ $n \in \mathbb{N}$; physics, metaphysics, metametaphysics, metametametaphysics
 and so on.
 
 東京（JR中央線周辺）を地盤とした読書会を主宰しています。
-形而上学を中心とし、哲学方法論などメタな話にも目線を配るという方向です。
+形而上学を中心とし、哲学方法論などメタな話にも目線を配るという路線です。
 随時、参加者募集中です。見学歓迎。
-詳細は別サイトへ。
+詳細は別頁へ。
