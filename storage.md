@@ -4,8 +4,8 @@ title: Storage
 permalink: /storage/
 ---
 
-# Talks
-## Talks referred
+## Talks
+# Talks referred
 
 * ``In Search of Lost Spaces: A Spatial Fine-grained Way''
 [Trends in Logic 19](https://sites.google.com/view/trendsinlogic2019)
@@ -49,7 +49,7 @@ Kanazawa. 2018.3.6
 * ``A Baby Step to Spatial Semantics'', A contributed talk at [the 15th Asian Logic Conference](https://alc15korea.wixsite.com/alckorea), Daejeon, Korea. 2017.7.10
 [Draft](assets/A_Baby_Step_to_Spatial_Semantics.pdf)
 
-## Other talks
+# Other talks
 
 * ``Embrace: Towards Good Theories'' The Japan Forum for Young Philosophers, Yoyogi Olympic Center, Tokyo. 2019. 7. 12 [Talks were given with no visual aid. The (revised) manuscript will be uploaded. ]
 
@@ -74,13 +74,13 @@ Nagoya University, Nagoya, Japan. 2019. 6. 26
 
 
 
-# Papers
+## Papers
 
 * ``Contemporary Debates on Possible Worlds''　_Japanese Student Research Notes of Philosophy of Science_, 1. p. 135-143.
 [Paper](http://pssj.info/jsrnps/contents/contents_data/001_17.pdf)
 
 
-# Notes (under construction)
+## Notes (under construction)
 * Hofweber 2016
 
 * Cappelen 2018 _Fixing Language_
@@ -92,7 +92,7 @@ Nagoya University, Nagoya, Japan. 2019. 6. 26
 
 
 
-# LaTeX Templates (under construction)
+## LaTeX Templates (under construction)
 
 * Tufts handout template
 
@@ -102,7 +102,7 @@ Nagoya University, Nagoya, Japan. 2019. 6. 26
 
 * Paper template
 
-# Undone / Abandoned / In Progress
+## Undone / Abandoned / In Progress
 
 * "From a Spatial Perspective: A New Semantics for Counterfactual
 Conditionals" The Fourth Taiwan Philosophical Logic Colloquium (TPLC 2018). 2018. 11. 15-17
