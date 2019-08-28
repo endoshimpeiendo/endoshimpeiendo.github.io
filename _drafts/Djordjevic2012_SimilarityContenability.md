@@ -12,7 +12,7 @@ Djordjevic also disucusses the relation between Lewis and Goodman and argues tha
 
 # 1. Lewis's and metalinguistic theory of counterfactuals.
 
-After briefly reminding Lewisian theory (1.1), Djordjevic offers a counterexample for Leiwsian theory (1.2).
+After briefly reviewing Lewisian theory (1.1), Djordjevic offers a counterexample for Leiwsian theory (1.2).
 
 # 2. Absolute Similarity
 
