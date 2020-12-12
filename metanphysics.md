@@ -3,8 +3,6 @@ layout: page
 title: Meta^{n}physics
 permalink: /metanphysics/
 ---
-# Meta^{n}physics
-
 形而上学(metaphysics)を行うときに、避けては通れないのが形而上学はどういう営みなのかについてを考察する営みであるメタ形而上学(metametaphysics)。この二つを中心とした著作を駆け足で読む読書会ユニットです。
 
 もともとは東京近郊（とくにJR中央・総武線沿線）で活動をしていましたが、昨今のCOVID-19の影響を鑑み、しばらくはビデオ通話による運営です。
@@ -51,8 +49,10 @@ permalink: /metanphysics/
 * Hofweber, Thomas. _Ontology and the Ambitions of Metaphysics_. Oxford University Press, 2016.
 
 
-## これから読みたい本
-2020年内は「おんとうろじーず：穏健化する形而上学としての自然主義とそれへの対峙」と(仮)題して、ひろく自然主義の立場からよる形而上学への批判ないしは再構築の著作をとりあつかう予定です。「直観だよりをやめろ。ちゃんと実験をしてみろ」「形而上学などやって才能を無駄にするな。物理学をしろ」「第一哲学とか偉そうなことを言うな」
+## これから読みたい本企画
+
+### おんとうろじーず３
+2020年内は「おんとうろじーず：穏健化する形而上学としての自然主義とそれへの対峙」と(仮)題して、ひろく**自然主義**の立場からよる形而上学への批判ないしは再構築の著作をとりあつかう予定です。「直観だよりをやめろ。ちゃんと実験をしてみろ」「形而上学などやって才能と時間を無駄にするな。物理学をしろ」「第一哲学とか偉そうなことを言うな」などなど、形而上学へは手厳しい意見が数多く寄せられています。それらの背景にある共通項――それはおそらく「穏当化」という点にあるのではないか、という見立てをおいています――を抽出し、各論を吟味します。そのうえで形而上学が可能なのか、可能だとしたらどのような形でなのか、を考えたいと思っています。
 
 * Machery, Edouard. _Philosophy Within Its Proper Bounds._ Oxford University Press, 2017. https://doi.org/10.1093/oso/9780198807520.001.0001.
 
@@ -64,19 +64,26 @@ permalink: /metanphysics/
 * Thomasson, Amie L. _Ontology Made Easy._ Oxford University Press, 2015. https://doi.org/10.1021/cg801198p.
 
 
-ほかのアイディアとしては、可能世界以降の形而上学リバイバルのさらに先、超内包まわりについても集中的に読みたいと思っています。
+### 超内包へ
+
+そのあとは、可能世界以降の形而上学リバイバルのさらなる展開である、**超内包 hyper-intensionality**まわりについても集中的に読みたいと思っています。すでに読んだ八木沢もこの流れです。
 
 * Yablo, Stephen. Aboutness. Princeton and Oxford: Princeton University Press, 2014.　（現在、鋭意計画中）
 
 * Berto, Francesco, and Mark Jago. Impossible Worlds. First edition. Oxford: Oxford University Press, 2019.
 
-メタ形而上学、とくに方法論は方法論でまとめてよむそんな時期があってもいいかもしれない。概念工学のことも忘れていませんよ。世間は知りませんが、わたしは。概念工学者間でのスーパースター（自身は概念工学とは自認していないが）であるハスランガーの仕事は、Black Lives Matter（人種）そしてMeToo（性）といった現代の状況を読み解くヒントにもなりそうです。
+
+### 概念工学
+
+メタ形而上学、とくに方法論は方法論でまとめてよむそんな時期があってもいいかもしれない。概念工学のことも忘れていませんよ。世間は知りませんが、わたしは。とりわけ、概念工学者間でのスーパースター（自身は概念工学とは自認していないが）であるハスランガーの仕事は、Black Lives Matter（人種）そしてMeToo（性）といった現代の状況を読み解くヒントにもなりそうです。
 
 * Chalmers, David J., David Manley, and Ryan Wasserman, eds. Metametaphysics: New Essays on the Foundations of Ontology. Oxford: Clarendon Press, 2009.
 
 * Haslanger, Sally. Resisting Reality: Social Construction and Social Critique. Oxford University Press, 2012. https://doi.org/10.1093/acprof:oso/9780199892631.001.0001.
 
-このあたりを読んで、ハイデゲリアンとの交流も深めたい。似たようなノリでベルクソニアンとも交流を深めたい。ブンセキ・タイリクの区分については、そもそもちゃんとどちらかのトライブに属せている人が何人いるのかと思うのと（名古屋の楽器屋でみた「西海岸系」に近いものを感ずる）そんなに違うことについて話しているとは思わないのです。
+### その他
+
+いわゆるエイベイ系ブンセキ系にかぎらず、幅広い関心やバックグラウンドのひとたちの議論プラットフォームになればよいと願っています。このあたりを読んで、ハイデゲリアンとの交流も深めたい。似たようなノリでベルクソニアンとも交流を深めたい。ブンセキ・タイリクの区分については、そもそもちゃんとどちらかのトライブに属せている人が何人いるのかと思うのと（名古屋の楽器屋でみた「西海岸系」に近いものを感ずる）、そもそも、通常思われるほどそんなに違うことについて話しているとは思わないのです。
 
 * McDaniel, Kris. The Fragmentation of Being. Oxford, United Kingdom: Oxford University Press, 2017.
 

@@ -4,73 +4,54 @@ title: Projects
 permalink: /projects/
 ---
 
-Projects
-Done, on-going, postponed, abandoned or any other status.
+関心を説明します。いくらか広がりがありますが、ゆるやかに連関しているところもあるので、それを説明します。
+完了、継続中、準備中、ただの思いつき、放棄、さまざまな状態のプロジェクトたちがあります。
 
-完了、進行中、休止中、放棄、そのほか
+# 中心課題：様相の形而上学
 
-# Spatial Modal Realism
+哲学にかぎらずさまざまな場面で**様相 modality**の概念が用いられます。典型的には可能性だとか必然性だとかですが、そこまでぎょうぎょうしい言葉でなくても、「あれ、冷蔵庫にプリンがあった**かも**」「豚が空飛ぶくらいに**ありえない**」といったような自然言語での表現も様相をあらわしたものだとみていいでしょう。
+これを説明するために現実世界以外の世界、**可能世界 possible worlds**というアイディアが考案され、
+様相にかぎらず幅広い概念への応用にある程度成功をみせています。
+しかし、依然として残る問いは、では、このある程度成功した理論が要請しているという可能世界なるものはいったいなになのか、
+という形而上学の問です。便利な理論のための措定、現実世界の再構成、その世界で正しい文の集合といった抽象的なものだとする意見が人気ですが、わたしはその論敵、悪名高き、そしてある意味人気といえば人気の、David Lewisの流儀によるgenuine modal realismの線をもうすこしがんばってみたいと思っています。彼のバージョンそのままでは擁護は厳しいので、いくらかの改良を加えます。ただし、その改良とは、ルイスは過激でやばいので穏健にするというより、むしろ彼の至らない点は中途半端さだ、過激さの徹底こそが批判を退ける、という超左派スタイルでいきます。
 
-Modal realism (of David Lewis) faces many criticisms
-not because it is too extreme but because it is not extreme enough.
-How to make it extreme? Spatialize it!
+## 様相
 
-様相実在論は数多くの批判を呼び寄せてきた。
-その原因は極端さにあるのではなく、むしろ極端さが足りないからだ。
-その中途半端さの極地――空間化をうめる。
+# 方法論
 
-# Logic as Metaphysics
+形而上学はしばしば、言語や思考、認識といったわれわれ人間側の事情から独立して、いってみれば世界の側でなりたっている事実をあきらかにする分野であると特徴づけられます。となると、ではいったいどのようにしてその人間側から独立したことがらについて知ることができるのでしょうか。この問に答えなくてはならないようにおもえます。
 
-Let's do some metaphysics by doing some logic.
-Let's *probe* instead of *prove* metaphysical structure.
-Our heroes include: Dummett, Sider, and Williamson.
+「意味論をすることが形而上学をすることである」というMichael Dummettの方法論、さらにはTimothy Williamsonの自然科学と似たように行う「安楽椅子科学」としての哲学（形而上学）というアイディアを検討します。とくにWilliamson _Modal Logic as Metaphysics_ は、方法論だけでなく題材も様相論理を形而上学として転回するという話なので、重要な参照点となるでしょう。
 
-論理学をすることで形而上学をするとは？
-証明proveではなくて探知probeをしましょう。
-ダメットとサイダーという意外な二人が出会います。立会人はウィリアムソン。
+# 哲学的論理学／形式化された哲学
 
-# Threats
+うえで述べたように、様相概念の実態を、論理学や自然科学の道具や成果を援用しつつ明らかにする、というのが第一のプロジェクトです。
+が、様相以外の、伝統的に哲学分野で議論されてきた概念についても、形式的な理論を応用するということに関心があります。
 
-Can I still hold the view of modal realism (mentioned above)
-even though I was caught and threatened by modal actualism (or any anti-realism) gang?
-I am already being prepared for it.
-Reading lists (including many fictions): Catch-22 and Ghosts.
+## コミュニケーション四部作
 
-もしもわたしが反実在論者に誘拐されて拳銃つきつけられて改宗を迫られたときの準備。
-主要参考文献は『キャッチ=22』および『悪霊』。
+一見、マイナーな境界事例にみえる事象こそ、コミュニケーションや言語の根幹が垣間見えたり、いや、それ自体が根幹をなしているのではないか、という超ざっくりした仮説のもと、いろいろ検証していきます。2050年完結予定。
 
-# Vagueness
+脅迫
+規則にしたがうこと、そして、後述の礼儀の後ろに効いているのも、これかもしれません。
 
-Vagueness appears anywhere.
-Analyze vagueness in a less vague manner.  
+冗談
+もうひとつの側面、すなわち
 
-曖昧さはどこでもでてきます。曖昧さをあまり曖昧でない形で分析したい。いつか詩歌の意味論へと接続させたい。
+礼儀
 
-# Manners Engineered
+沈黙
 
-マナーの概念を工学する。
-謙遜原則、ある種の功利主義的な原則、それから動的性格を見出し、マナーをより自由に！
+## 曖昧性
 
-# Logicians Archived
-論理学とはなにか。論理学者がやっていること。
-では論理学者がやっていることはなにか？
-デジタルふくめた痕跡を集積する。
+曖昧性それ自体をとりだして考えるのはむずかしいので、なにかをバイパスさせることを考えます。
+具体的には、
 
-# Self-help and information technologies for philosophers
+# 外的要因
 
-自己啓発の哲学、情報化の哲学をやっている場合ではない。
-哲学者は自己啓発すべきだし、哲学の実践はより情報化をすすめるべきだ。
-哲学の生産性向上、それから哲学の情報化にむけた、現状報告と処方箋、それら実践の記録。最初の被験体は自分自身です。
-考古（現）学的アプローチ、あるいは質的調査。
+# オルタナティブ意味論の探求
 
-# Meta^{n}physics
+様相論理の意味論は、Kripke意味論という別名でも知られる関係性意味論 relational semanticsが業界のデファクトスタンダードですが、それ以外の意味論もいくつか提案されていて、それらにはそれらなりのよさがあります。とくに表現力について（どれだけ異なった論理を
 
-A reading group based in Tokyo.
-We read anything about
-$n \in \mathbb{N}$; physics, metaphysics, metametaphysics, metametametaphysics
-and so on.
-
-東京（JR中央線周辺）を地盤とした読書会を主宰しています。
-形而上学を中心とし、哲学方法論などメタな話にも目線を配るという路線です。
-随時、参加者募集中です。見学歓迎。
-詳細は別頁へ。
+# 概念工学
+やってます。
