@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-12T12:36:40+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">遠藤　進平 Endo, Shimpei</title><subtitle>A personal website of Shimpei Endo. 遠藤進平の個人サイト</subtitle><entry><title type="html">質問を理解するとき、わたしたちはなにを理解しているのか？――質問の意味論入門（草稿）</title><link href="http://localhost:4000/jekyll/update/2020/12/12/quiz.html" rel="alternate" type="text/html" title="質問を理解するとき、わたしたちはなにを理解しているのか？――質問の意味論入門（草稿）" /><published>2020-12-12T00:00:00+09:00</published><updated>2020-12-12T00:00:00+09:00</updated><id>http://localhost:4000/jekyll/update/2020/12/12/quiz</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/12/quiz.html">&lt;p&gt;『ユリイカ』に寄稿したものの原稿です。手元にある最新のマークダウン・ファイルをそのまま写しただけなので、校正を経て雑誌に掲載されたものとは差分があります。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-12T12:49:13+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">遠藤　進平 Endo, Shimpei</title><subtitle>A personal website of Shimpei Endo. 遠藤進平の個人サイト</subtitle><entry><title type="html">質問を理解するとき、わたしたちはなにを理解しているのか？――質問の意味論入門（草稿）</title><link href="http://localhost:4000/jekyll/update/2020/12/12/quiz.html" rel="alternate" type="text/html" title="質問を理解するとき、わたしたちはなにを理解しているのか？――質問の意味論入門（草稿）" /><published>2020-12-12T00:00:00+09:00</published><updated>2020-12-12T00:00:00+09:00</updated><id>http://localhost:4000/jekyll/update/2020/12/12/quiz</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/12/quiz.html">&lt;p&gt;『ユリイカ』に寄稿したものの原稿です。手元にある最新のマークダウン・ファイルをそのまま写しただけなので、校正を経て雑誌に掲載されたものとは差分があります。&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -33,8 +33,7 @@
 
 &lt;p&gt;このような動的（ダイナミック）な観点から、文の意味、とはなにだろうか、ということを考えてみる。すると、文の意味は、&lt;strong&gt;共通の土台 common ground&lt;/strong&gt;――会話の参加者どうしで共有されている情報――を、どれくらい、そしてどのように更新するかによって説明できる。&lt;/p&gt;
 
-&lt;p&gt;このダイナミクスを、さきほどの可能世界のフレームワークにあてこんで考えると、次のような感じになる。文の意味は、目下、話者たちが念頭においている可能世界の一群を、どれくらい&lt;strong&gt;絞りこむ&lt;/strong&gt;か、によって定まる。[^1]
-[^1]: これらの方針にもっとも強く影響を与えたのはStalnakerの以下の仕事だろう。Stalnaker, Robert C. “Assertion.” In Formal Semantics, edited by Paul Portner and Barbara H. Partee, 147–61. Oxford, UK: Blackwell Publishers Ltd, 2008.&lt;/p&gt;
+&lt;p&gt;このダイナミクスを、さきほどの可能世界のフレームワークにあてこんで考えると、次のような感じになる。文の意味は、目下、話者たちが念頭においている可能世界の一群を、どれくらい&lt;strong&gt;絞りこむ&lt;/strong&gt;か、によって定まる。&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;具体例を見ていこう。「柳生十兵衛はスパイだった」という文がもつ意味（情報、といったほうが直観的にとおりがいいかもしれない）は、それを発言し、たとえば正しいと認めることでいったいどれくらいの可能世界が削られるか、によって測られる。たとえば「柳生十兵衛はスパイだった」――この文章が真なのか偽なのかはわたしにはわからない。ただ、すくなくとも、この文は、「柳生十兵衛はスパイだった」が偽である、要は柳生十兵衛はスパイではなかったような可能な状況を、いまかんがえているありうる状況たちのプールからとりのぞくというような提案を会話にもたらす。もし受入れられるのならば、会話の参加者たちは、これ以降、十兵衛がスパイでなかったという状況については検討しない、ということだ。&lt;/p&gt;
 
@@ -59,29 +58,33 @@
 
 &lt;p&gt;話を単純にするために、世の中にごまんとあるほかの質問や文についてはすっかりわすれて、このふたつの文だけを考える。すると、質問MもNもどちらもイエス（1,1）Mだけがイエス(1,0)、Nだけがイエス(0,1)、両方ノー(0,0)と、全部で2×2=4とおりの可能世界を考えることができる。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./quiz/base.png&quot; alt=&quot;2×2=4とおりの可能世界&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;quiz/base.png&quot; alt=&quot;2×2=4とおりの可能世界&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;さっきまでの話をふまえると、質問Mは、「目黒駅は目黒区にある」可能性(1,1),(1,0)、そして「目黒駅は目黒区にない」可能性(0,1),(0,0)どちらも開けておくことである。つまり、現在、検討されている４つの可能世界をすべて残しておくことである。転じて、質問Nも、「日本の首都は名古屋である」(1,1),(0,1)「日本の首都は名古屋ではない」(1,0), (0,0) 両方の可能性をあけておくことである。これもまた目下検討中の４つの可能世界すべてを残すことである。&lt;/p&gt;
 
-&lt;p&gt;これでは、どちらも、質問がさししめすことが、いま想定している世界（４つ）すべてになってしまい、ほんらいつけるべき区別がつけられなくなってしまう。
-&lt;img src=&quot;./quiz/all.png&quot; alt=&quot;区別がつかない&quot; /&gt;
-もっというと、これだと、マルバツ問題はありとあらゆるトートロジーとおなじ意味だということになってしまう。&lt;/p&gt;
+&lt;p&gt;これでは、どちらも、質問がさししめすことが、いま想定している世界（４つ）すべてになってしまい、ほんらいつけるべき区別がつけられなくなってしまう。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;quiz/all.png&quot; alt=&quot;区別がつかない&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;もっというと、これだと、マルバツ問題はありとあらゆるトートロジーとおなじ意味だということになってしまう。&lt;/p&gt;
 
 &lt;p&gt;これら”二つの疑問の意味はあきらかに違う。Mは目黒駅について、Nは日本の首都についての問題である。このままでは目が粗すぎて実用にむかない。疑問文の意味をきちんと表現するためには、可能世界の枠組みよりもより詳細で細かな網目を用意してくれる意味論的道具がわたしたちには必要だ。&lt;/p&gt;
 
 &lt;h2 id=&quot;疑問文の意味論とはどういうものか&quot;&gt;疑問文の意味論とはどういうものか？&lt;/h2&gt;
-&lt;p&gt;ここからが疑問文意味論の紹介である。イエス・ノーで応えられるタイプの疑問以外の、疑問表現一般のみならず、その対となる主張も統合的に説明できる枠組みがすでに展開されている。&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
+&lt;p&gt;ここからが疑問文意味論の紹介である。イエス・ノーで応えられるタイプの疑問以外の、疑問表現一般のみならず、その対となる主張も統合的に説明できる枠組みがすでに展開されている。&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;
 が、ここでその形式的詳細を伝えていると紙面や趣旨からはみだしてしまうので、あくまで、イエス・ノーで答えられる、いわゆるマルバツ問題に話を絞って説明をしよう。&lt;/p&gt;
 
 &lt;p&gt;引き続き、質問MとNとを考えよう。
-このとき、想定している世界はぜんぶあわせて2×2=4つであることは、変わらない。ただし、ここで、可能世界とは区別される、可能世界をよせあつめた&lt;strong&gt;選択肢&lt;/strong&gt;なる概念を導入する。具体的にいうと「目黒駅は目黒区にある」が真である世界をくっつけたものを、つまり具体的には(1,1)と(1,0)をあわせたもの{[1,1][1,0]}を[M]と書き、「目黒駅は目黒区にある」選択肢とよんでおく。同様に、その否定「目黒駅は目黒区にはない」¬Mという選択肢[¬M]は{(0,1)(0,0)}のこととする。同様に、N、¬Nについても考える。
-&lt;img src=&quot;./quiz/horizon.png&quot; alt=&quot;質問M「Mか¬Mか？」&quot; /&gt;
-&lt;img src=&quot;./quiz/vertical.png&quot; alt=&quot;質問N「Nか¬Nか？」&quot; /&gt;&lt;/p&gt;
+このとき、想定している世界はぜんぶあわせて2×2=4つであることは、変わらない。ただし、ここで、可能世界とは区別される、可能世界をよせあつめた&lt;strong&gt;選択肢&lt;/strong&gt;なる概念を導入する。具体的にいうと「目黒駅は目黒区にある」が真である世界をくっつけたものを、つまり具体的には(1,1)と(1,0)をあわせたもの{[1,1][1,0]}を[M]と書き、「目黒駅は目黒区にある」選択肢とよんでおく。同様に、その否定「目黒駅は目黒区にはない」¬Mという選択肢[¬M]は{(0,1)(0,0)}のこととする。同様に、N、¬Nについても考える。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;quiz/horizon.png&quot; alt=&quot;質問M「Mか¬Mか？」&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;quiz/vertical.png&quot; alt=&quot;質問N「Nか¬Nか？」&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;準備は整った。質問の意味とはなにか？　それは、論理空間に選択肢で&lt;strong&gt;区切る&lt;/strong&gt;提案のことである。質問は主張ではないから、検討する可能世界を削るのはおかしい。しかし、だからといってそのまま残すと、異なる質問が区別できなくなってしまった。そこで、可能世界をあつめたものを意味とするのではなく、可能世界をあつめたもの（選択肢）をさらにあつめたものを質問の意味だと考える。このようにすれば、垂直方向に区切っている質問Mと水平方向に区切っている質問Nとして、質問の意味内容を区別することができる。&lt;/p&gt;
 
 &lt;h2 id=&quot;クイズはなにの役に立つか&quot;&gt;クイズはなにの役に立つか？&lt;/h2&gt;
-&lt;p&gt;さて、ここまでクイズなる営みを可能にする、わたしたち人間がもっているはずの疑問文の理解――それを説明する構造をあらわす意味論のアイディアを、いささか簡素ではあるが、説明した。&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;さて、ここまでクイズなる営みを可能にする、わたしたち人間がもっているはずの疑問文の理解――それを説明する構造をあらわす意味論のアイディアを、いささか簡素ではあるが、説明した。&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;最後に、これらの枠組みをふまえて、質問という形式自体が情報伝達においてすぐれている点を指摘したい。&lt;/p&gt;
 
@@ -91,10 +94,13 @@
 
 &lt;p&gt;というわけで、クイズ形式、というものは、実は情報伝達、とくに未知を既知に変化させる学習のための形式としてかなり優れている。なにしろ、質問さえすれば、情報にいたるまでの筋道をかなり勝手に導入してくれて、その機微に頭を悩ませる必要がなくなる。クイズはたとえば学習の成果の確認にまず使われることが多い。確認テストの類も、英語だと「クイズ」であるように。しかし、むしろ新しいことを知る際に、クイズの様式はその能力を発揮する。前提知識を把握し、そのうえで適切な前提をそろえる条件をだし、そのうえでもっていきたい主張に導く。前提知識をそろえることは丁寧にやらなくては脱落者がでるし、かといって丁寧にやりすぎると飽きられる。前提知識を測定する困難もある。これらの問題系を、クイズの実施は、すべてではないにせよ、容易に解消する。効率的に前提知識の測定をしつつ、問いそれ自体で文脈が導入できる。さらに、サスペンス効果もあり引きもよい。&lt;/p&gt;
 
-&lt;p&gt;量産されるブログ記事が「ご存知でしょうか」ととりあえず疑問文ではじまる定形は、どれくらい成功しているかの程度問題は措くが、おそらくこの機能を念頭においている。また、「身の回りのモノ・コトをクイズで理解する」ことをめざすという「クイズノック」のプロジェクト&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;も、応用例のひとつに数えることができるだろう。&lt;/p&gt;
+&lt;p&gt;量産されるブログ記事が「ご存知でしょうか」ととりあえず疑問文ではじまる定形は、どれくらい成功しているかの程度問題は措くが、おそらくこの機能を念頭においている。また、「身の回りのモノ・コトをクイズで理解する」ことをめざすという「クイズノック」のプロジェクトも、応用例のひとつに数えることができるだろう。&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;これらの方針にもっとも強く影響を与えたのはStalnakerの以下の仕事だろう。Stalnaker, Robert C. “Assertion.” In Formal Semantics, edited by Paul Portner and Barbara H. Partee, 147–61. Oxford, UK: Blackwell Publishers Ltd, 2008. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
       &lt;p&gt;　以下のものが、動機の説明や例も豊富でわかりよい。 Ciardelli, Ivano, Jeroen Groenendijk, and Floris Roelofsen. Inquisitive Semantics. Oxford University Press, 2018. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
